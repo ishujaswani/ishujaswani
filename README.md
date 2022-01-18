@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Algorithms for machine learning and AI
 - 💞️ I’m looking to collaborate on Analytics projects
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/ishu-jaswani-354566160/
 
 <!---
 ishujaswani/ishujaswani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
