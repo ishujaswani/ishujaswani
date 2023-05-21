@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishujaswani
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Financial Data Science
 - 🌱 I’m currently learning Algorithms for machine learning and AI
 - 💞️ I’m looking to collaborate on Analytics projects
 - 📫 How to reach me https://www.linkedin.com/in/ishu-jaswani-354566160/
